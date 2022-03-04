@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="5.664">
+<testcase classname="Advanced Configurations Feature" name="Verify The Fields in the Advanced Configurations Sections" time="5.471">
+<system-out><![CDATA[Given user is on homepage...................................................passed
+When user Clicks on "Advanced Configuration" Section........................passed
+Then Verify Basic Fields on "Advanced Configurations" Section...............passed
+When user Clicks on "Test Settings" Tab.....................................passed
+Then Verify Basic Fields on "Test Settings" Tab.............................passed
+When user Clicks on "Advanced" Tab..........................................passed
+Then Verify Basic Fields on "Advanced" Tab..................................passed
+When user Clicks on "Chromium" Tab..........................................passed
+Then Verify Basic Fields on "Chromium" Tab..................................passed
+When user Clicks on "Script" Tab............................................passed
+Then Verify Basic Fields on "Script" Tab....................................passed
+When user Clicks on "Block" Tab.............................................passed
+Then Verify Basic Fields on "Block" Tab.....................................passed
+When user Clicks on "SPOF" Tab..............................................passed
+Then Verify Basic Fields on "SPOF" Tab......................................passed
+When user Clicks on "Custom" Tab............................................passed
+Then Verify Basic Fields on "Custom" Tab....................................passed
+]]></system-out>
+</testcase>
+</testsuite>
